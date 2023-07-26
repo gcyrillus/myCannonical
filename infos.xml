@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document>
-    <title>extra-SEO</title>
+    <title>url canonique</title>
     <author>G.Cyrille</author>
     <version>1.0.0</version>
 	<date>25/07/2023</date>
     <site>https://re7net.com</site>
-    <description><![CDATA[Ajout de metadonnées dans les pages à l'attention des moteurs de recherches et réseaux sociaux.]]></description>
+    <description><![CDATA[Ajout des URL canonique dans vos pages (inclus pages plugins)]]></description>
     <scope></scope>
 </document>
